@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.login_section{
+
+    background-color: #2AA3DA;
+    padding: 70px 0;
+
+}
+
+.img_box{
+    height: 400px;
+    width: 400px;
+
+}
+
+
+.img_box img{
+    height: 100%;
+    width: 100%;
+    
+}
+
+.row {
+    display: flex;
+    max-width: 715px;
+    margin: 0 auto;
+    width: 100%;
+    justify-content: center;
+    
+}
+.col-md-6.info{
+    background-color: white;
+    padding: 50px;
+
+}

@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.login-page{
+    max-width: 1366px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #2AA3DA;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.container{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    /* margin-top: 75px; */
+}
+.banner{
+    width: 50%;
+    max-height: 80vh;
+    overflow: hidden;
+    object-fit: contain;
+}
+.login-panel{
+    width: 50%;
+    background-color: #FFFFFF;
+    /* border-radius: 0px 6px; */
+}
+.banner img{
+    width: 100%;
+    
+}
+.login-details{
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 150px;
+}
